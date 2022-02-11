@@ -1,0 +1,23 @@
+body{
+background-image: linear-gradient(yellow,white,grey,pink,orange);
+}
+
+.img1{
+    height: 400px;
+    width: 470px;
+    border:2px solid black;
+    margin-top: 4rem;
+    margin-left: 25rem;
+}
+.inputFild{
+    margin-left: 26.5rem;
+    margin-top: 1rem;
+    height: 40px;
+    width: 400px;
+    border-radius: 5px;
+    border: 3px solid brown;
+padding: 10px;
+font-family: cursive;
+font-size: 23px;
+}
+
